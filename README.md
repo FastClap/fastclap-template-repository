@@ -1,4 +1,4 @@
-# [PROJECT'S NAME]
+# [PROJECT'S NAME] - Production Build :tada:
 
 [Project's description]
 
