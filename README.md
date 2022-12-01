@@ -1,4 +1,4 @@
-# [PROJECT'S NAME]
+# [PROJECT'S NAME] - Development Build :hammer:
 
 [Project's description]
 
